@@ -1,0 +1,13 @@
+# Java build artifacts
+*.class
+
+# Build/output dirs
+/essencial/bin/
+/bin/
+/out/
+/target/
+
+# IDE/editor
+/.idea/
+/.vscode/
+*.iml
