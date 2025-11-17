@@ -1,4 +1,4 @@
-package repetition;
+package challengers;
 
 import java.util.Scanner;
 
